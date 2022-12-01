@@ -1,6 +1,6 @@
 # React [Todo List]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Goal : My Todo List 만들기 
 
